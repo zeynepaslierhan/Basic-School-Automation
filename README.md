@@ -12,3 +12,6 @@ For registered students includes name, surname, maximum 10 lesson codes and maxi
 Lesson information is kept in binary file.
 
 Each student can register for a maximum of 10 lesson. Each lesson can only have one point.
+
+
+!!!The binary file containing the lesson information should be available in the folder.
