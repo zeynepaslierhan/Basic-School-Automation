@@ -2,7 +2,7 @@
 School automation that I prepared for the school project.
 It was prepared using the C language. Its purpose is to improve File Operations.
 
-Date: October 22, 2020
+Date: October 22, 2021
 
 It does:
 It automatically gives the school number to students enrolled in the school. The numbers are given in order.
