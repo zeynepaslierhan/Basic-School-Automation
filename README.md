@@ -1,6 +1,7 @@
 # Basic-School-Automation
 School automation that I prepared for the school project.
 It was prepared using the C language. Its purpose is to improve File Operations.
+
 Date: October 22, 2020
 
 It does:
